@@ -433,40 +433,6 @@ Automated updates to asset records after delivery.
 
 14. 👨‍💻 Author
 
-Project Name: Streamlining IT Procurement
-Technology: ServiceNow
-Platform: Service Catalog and Flow Designer
-Project Type: IT Service Management Automation
-
-Add your name, college, department, and GitHub profile here if you want to include them.
-
-15. 📄 License
-
-This project can be shared under the MIT License if you choose that license. Add a LICENSE file containing the appropriate license text before claiming the repository is MIT-licensed.
-
-
----
-
-✅ Next Step: Add Your Project Screenshots
-
-To make your GitHub README look professional like the example you shared, add screenshots of your actual ServiceNow implementation.
-
-Recommended screenshots:
-
-1. Service Catalog laptop request form.
-
-
-2. Flow Designer workflow.
-
-
-3. Approval configuration.
-
-
-4. Fulfillment task.
-
-
-5. Final request status.
-
-
-
-One important point: The README above is a project-documentation template. We should adjust it to match the exact features you have implemented so that your GitHub project is accurate and easy to explain during a college presentation or interview.
+sreenithi b servicenow developer | flow designer |
+itsm | itom arulanantha prabhu s servicenow developer mohanapriya sharmini
+github : @sreenithibaskar@gmail.com
